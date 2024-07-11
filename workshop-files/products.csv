@@ -1,0 +1,505 @@
+ProductID,ProductCategoryName,Model
+1,,
+2,,
+323,,
+325,,
+326,,
+341,,
+342,,
+343,,
+344,,
+345,,
+346,,
+347,,
+348,,
+349,,
+359,,
+360,,
+361,,
+362,,
+363,,
+364,,
+365,,
+366,,
+367,,
+368,,
+369,,
+370,,
+371,,
+372,,
+373,,
+374,,
+375,,
+376,,
+377,,
+378,,
+379,,
+380,,
+381,,
+382,,
+383,,
+384,,
+385,,
+386,,
+387,,
+388,,
+389,,
+390,,
+391,,
+392,,
+393,,
+394,,
+395,,
+396,,
+397,,
+402,,
+403,,
+404,,
+405,,
+406,,
+407,,
+408,,
+409,,
+410,,
+411,,
+412,,
+413,,
+414,,
+415,,
+416,,
+417,,
+418,,
+419,,
+420,,
+421,,
+422,,
+423,,
+424,,
+425,,
+426,,
+427,,
+428,,
+429,,
+430,,
+431,,
+432,,
+433,,
+434,,
+435,,
+436,,
+437,,
+438,,
+439,,
+440,,
+441,,
+442,,
+443,,
+444,,
+445,,
+446,,
+447,,
+448,,
+449,,
+450,,
+451,,
+452,,
+453,,
+454,,
+455,,
+456,,
+457,,
+458,,
+459,,
+460,,
+462,,
+463,,
+464,,
+465,,
+466,,
+467,,
+468,,
+469,,
+470,,
+471,,
+472,,
+473,,
+474,,
+475,,
+476,,
+477,,
+478,,
+479,,
+480,,
+481,,
+482,,
+483,,
+484,,
+485,,
+486,,
+487,,
+488,,
+489,,
+491,,
+497,,
+504,,
+505,,
+506,,
+527,,
+528,,
+324,,
+328,,
+329,,
+330,,
+490,,
+3,,
+4,,
+316,,
+327,,
+331,,
+350,,
+355,,
+356,,
+357,,
+358,,
+398,,
+399,,
+400,,
+401,,
+492,,
+493,,
+494,,
+495,,
+496,,
+523,,
+524,,
+525,,
+526,,
+529,,
+530,,
+531,,
+532,,
+533,,
+534,,
+535,,
+317,,
+318,,
+319,,
+320,,
+321,,
+322,,
+332,,
+351,,
+352,,
+461,,
+679,,
+712,Clothing,Cycling Cap
+514,,
+515,,
+516,,
+517,,
+518,,
+519,,
+520,,
+521,,
+522,,
+707,Accessories,Sport-100
+708,Accessories,Sport-100
+711,Accessories,Sport-100
+802,Components,LL Fork
+803,Components,ML Fork
+804,Components,HL Fork
+805,Components,LL Headset
+806,Components,ML Headset
+807,Components,HL Headset
+808,Components,LL Mountain Handlebars
+809,Components,ML Mountain Handlebars
+810,Components,HL Mountain Handlebars
+811,Components,LL Road Handlebars
+812,Components,ML Road Handlebars
+813,Components,HL Road Handlebars
+815,Components,LL Mountain Front Wheel
+816,Components,ML Mountain Front Wheel
+817,Components,HL Mountain Front Wheel
+821,Components,Touring Front Wheel
+823,Components,LL Mountain Rear Wheel
+824,Components,ML Mountain Rear Wheel
+825,Components,HL Mountain Rear Wheel
+829,Components,Touring Rear Wheel
+842,Accessories,Touring-Panniers
+843,Accessories,Cable Lock
+844,Accessories,Minipump
+845,Accessories,Mountain Pump
+846,Accessories,Taillight
+847,Accessories,Headlights - Dual-Beam
+848,Accessories,Headlights - Weatherproof
+870,Accessories,Water Bottle
+871,Accessories,Mountain Bottle Cage
+872,Accessories,Road Bottle Cage
+873,Accessories,Patch kit
+876,Accessories,Hitch Rack - 4-Bike
+877,Accessories,Bike Wash
+878,Accessories,Fender Set - Mountain
+879,Accessories,All-Purpose Bike Stand
+908,Components,LL Mountain Seat/Saddle 2
+909,Components,ML Mountain Seat/Saddle 2
+910,Components,HL Mountain Seat/Saddle 2
+911,Components,LL Road Seat/Saddle 1
+912,Components,ML Road Seat/Saddle 2
+913,Components,HL Road Seat/Saddle 2
+914,Components,LL Touring Seat/Saddle
+915,Components,ML Touring Seat/Saddle
+916,Components,HL Touring Seat/Saddle
+921,Accessories,Mountain Tire Tube
+922,Accessories,Road Tire Tube
+923,Accessories,Touring Tire Tube
+928,Accessories,LL Mountain Tire
+929,Accessories,ML Mountain Tire
+930,Accessories,HL Mountain Tire
+931,Accessories,LL Road Tire
+932,Accessories,ML Road Tire
+933,Accessories,HL Road Tire
+934,Accessories,Touring Tire
+941,Components,Touring Pedal
+946,Components,LL Touring Handlebars
+947,Components,HL Touring Handlebars
+952,Components,Chain
+709,Clothing,Mountain Bike Socks
+710,Clothing,Mountain Bike Socks
+713,Clothing,Long-Sleeve Logo Jersey
+714,Clothing,Long-Sleeve Logo Jersey
+715,Clothing,Long-Sleeve Logo Jersey
+716,Clothing,Long-Sleeve Logo Jersey
+841,Clothing,Men's Sports Shorts
+849,Clothing,Men's Sports Shorts
+850,Clothing,Men's Sports Shorts
+851,Clothing,Men's Sports Shorts
+852,Clothing,Women's Tights
+853,Clothing,Women's Tights
+854,Clothing,Women's Tights
+855,Clothing,Men's Bib-Shorts
+856,Clothing,Men's Bib-Shorts
+857,Clothing,Men's Bib-Shorts
+858,Clothing,Half-Finger Gloves
+859,Clothing,Half-Finger Gloves
+860,Clothing,Half-Finger Gloves
+861,Clothing,Full-Finger Gloves
+862,Clothing,Full-Finger Gloves
+863,Clothing,Full-Finger Gloves
+864,Clothing,Classic Vest
+865,Clothing,Classic Vest
+866,Clothing,Classic Vest
+867,Clothing,Women's Mountain Shorts
+868,Clothing,Women's Mountain Shorts
+869,Clothing,Women's Mountain Shorts
+874,Clothing,Racing Socks
+875,Clothing,Racing Socks
+880,Accessories,Hydration Pack
+881,Clothing,Short-Sleeve Classic Jersey
+882,Clothing,Short-Sleeve Classic Jersey
+883,Clothing,Short-Sleeve Classic Jersey
+884,Clothing,Short-Sleeve Classic Jersey
+507,,
+508,,
+509,,
+510,,
+511,,
+512,,
+513,,
+818,Components,LL Road Front Wheel
+819,Components,ML Road Front Wheel
+820,Components,HL Road Front Wheel
+826,Components,LL Road Rear Wheel
+827,Components,ML Road Rear Wheel
+828,Components,HL Road Rear Wheel
+894,Components,Rear Derailleur
+907,Components,Rear Brakes
+935,Components,LL Mountain Pedal
+936,Components,ML Mountain Pedal
+937,Components,HL Mountain Pedal
+938,Components,LL Road Pedal
+939,Components,ML Road Pedal
+940,Components,HL Road Pedal
+945,Components,Front Derailleur
+948,Components,Front Brakes
+949,Components,LL Crankset
+950,Components,ML Crankset
+951,Components,HL Crankset
+994,Components,LL Bottom Bracket
+995,Components,ML Bottom Bracket
+996,Components,HL Bottom Bracket
+797,Bikes,Road-550-W
+798,Bikes,Road-550-W
+799,Bikes,Road-550-W
+800,Bikes,Road-550-W
+801,Bikes,Road-550-W
+822,Components,ML Road Frame-W
+833,Components,ML Road Frame-W
+834,Components,ML Road Frame-W
+835,Components,ML Road Frame-W
+836,Components,ML Road Frame-W
+904,Components,ML Mountain Frame-W
+905,Components,ML Mountain Frame-W
+906,Components,ML Mountain Frame-W
+942,Components,ML Mountain Frame-W
+973,Bikes,Road-350-W
+974,Bikes,Road-350-W
+975,Bikes,Road-350-W
+976,Bikes,Road-350-W
+980,Bikes,Mountain-400-W
+981,Bikes,Mountain-400-W
+982,Bikes,Mountain-400-W
+983,Bikes,Mountain-400-W
+747,Components,HL Mountain Frame
+748,Components,HL Mountain Frame
+814,Components,ML Mountain Frame-W
+943,Components,LL Mountain Frame
+944,Components,LL Mountain Frame
+680,Components,HL Road Frame
+706,Components,HL Road Frame
+717,Components,HL Road Frame
+718,Components,HL Road Frame
+719,Components,HL Road Frame
+720,Components,HL Road Frame
+721,Components,HL Road Frame
+722,Components,LL Road Frame
+723,Components,LL Road Frame
+724,Components,LL Road Frame
+725,Components,LL Road Frame
+726,Components,LL Road Frame
+727,Components,LL Road Frame
+728,Components,LL Road Frame
+729,Components,LL Road Frame
+730,Components,LL Road Frame
+731,Components,ML Road Frame
+732,Components,ML Road Frame
+733,Components,ML Road Frame
+734,Components,ML Road Frame
+735,Components,ML Road Frame
+736,Components,LL Road Frame
+737,Components,LL Road Frame
+738,Components,LL Road Frame
+739,Components,HL Mountain Frame
+740,Components,HL Mountain Frame
+741,Components,HL Mountain Frame
+742,Components,HL Mountain Frame
+743,Components,HL Mountain Frame
+744,Components,HL Mountain Frame
+745,Components,HL Mountain Frame
+746,Components,HL Mountain Frame
+830,Components,ML Mountain Frame
+831,Components,ML Mountain Frame
+832,Components,ML Mountain Frame
+837,Components,HL Road Frame
+838,Components,HL Road Frame
+839,Components,HL Road Frame
+840,Components,HL Road Frame
+885,Components,HL Touring Frame
+886,Components,LL Touring Frame
+887,Components,HL Touring Frame
+888,Components,HL Touring Frame
+889,Components,HL Touring Frame
+890,Components,HL Touring Frame
+891,Components,HL Touring Frame
+892,Components,HL Touring Frame
+893,Components,HL Touring Frame
+895,Components,LL Touring Frame
+896,Components,LL Touring Frame
+897,Components,LL Touring Frame
+898,Components,LL Touring Frame
+899,Components,LL Touring Frame
+900,Components,LL Touring Frame
+901,Components,LL Touring Frame
+902,Components,LL Touring Frame
+903,Components,LL Touring Frame
+917,Components,LL Mountain Frame
+918,Components,LL Mountain Frame
+919,Components,LL Mountain Frame
+920,Components,LL Mountain Frame
+924,Components,LL Mountain Frame
+925,Components,LL Mountain Frame
+926,Components,LL Mountain Frame
+927,Components,LL Mountain Frame
+749,Bikes,Road-150
+750,Bikes,Road-150
+751,Bikes,Road-150
+752,Bikes,Road-150
+753,Bikes,Road-150
+754,Bikes,Road-450
+755,Bikes,Road-450
+756,Bikes,Road-450
+757,Bikes,Road-450
+758,Bikes,Road-450
+759,Bikes,Road-650
+760,Bikes,Road-650
+761,Bikes,Road-650
+762,Bikes,Road-650
+763,Bikes,Road-650
+764,Bikes,Road-650
+765,Bikes,Road-650
+766,Bikes,Road-650
+767,Bikes,Road-650
+768,Bikes,Road-650
+769,Bikes,Road-650
+770,Bikes,Road-650
+771,Bikes,Mountain-100
+772,Bikes,Mountain-100
+773,Bikes,Mountain-100
+774,Bikes,Mountain-100
+775,Bikes,Mountain-100
+776,Bikes,Mountain-100
+777,Bikes,Mountain-100
+778,Bikes,Mountain-100
+779,Bikes,Mountain-200
+780,Bikes,Mountain-200
+781,Bikes,Mountain-200
+782,Bikes,Mountain-200
+783,Bikes,Mountain-200
+784,Bikes,Mountain-200
+785,Bikes,Mountain-300
+786,Bikes,Mountain-300
+787,Bikes,Mountain-300
+788,Bikes,Mountain-300
+789,Bikes,Road-250
+790,Bikes,Road-250
+791,Bikes,Road-250
+792,Bikes,Road-250
+793,Bikes,Road-250
+794,Bikes,Road-250
+795,Bikes,Road-250
+796,Bikes,Road-250
+953,Bikes,Touring-2000
+954,Bikes,Touring-1000
+955,Bikes,Touring-1000
+956,Bikes,Touring-1000
+957,Bikes,Touring-1000
+958,Bikes,Touring-3000
+959,Bikes,Touring-3000
+960,Bikes,Touring-3000
+961,Bikes,Touring-3000
+962,Bikes,Touring-3000
+963,Bikes,Touring-3000
+964,Bikes,Touring-3000
+965,Bikes,Touring-3000
+966,Bikes,Touring-1000
+967,Bikes,Touring-1000
+968,Bikes,Touring-1000
+969,Bikes,Touring-1000
+970,Bikes,Touring-2000
+971,Bikes,Touring-2000
+972,Bikes,Touring-2000
+977,Bikes,Road-750
+978,Bikes,Touring-3000
+979,Bikes,Touring-3000
+984,Bikes,Mountain-500
+985,Bikes,Mountain-500
+986,Bikes,Mountain-500
+987,Bikes,Mountain-500
+988,Bikes,Mountain-500
+989,Bikes,Mountain-500
+990,Bikes,Mountain-500
+991,Bikes,Mountain-500
+992,Bikes,Mountain-500
+993,Bikes,Mountain-500
+997,Bikes,Road-750
+998,Bikes,Road-750
+999,Bikes,Road-750
